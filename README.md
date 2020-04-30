@@ -2,7 +2,7 @@
 
 #基于Torch框架的GAN人脸融合与生成
 
-#1.下载人脸数据，放入根目录
+#1.下载人脸数据，放入根目录，face文件夹
 
 #2.bash
    python dcgan.py 
@@ -13,4 +13,5 @@
 #人脸集的百度网盘下载链接如下：
 
 #链接：https://pan.baidu.com/s/1ha-QRLI23ciOy7cA4U5OkQ 
+
 #提取码：jt1o
