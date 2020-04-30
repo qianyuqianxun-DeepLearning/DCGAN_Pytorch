@@ -6,7 +6,7 @@
 
 #2.bash
 
-# python dcgan.py 
+python dcgan.py 
 
 #即可进行人脸的生成，最终生成人脸存放在out文件夹
 最终生成的合成人脸图片为矩阵的形式输出，可以进行输出格式的调整。
